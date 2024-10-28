@@ -1,0 +1,5 @@
+venv
+.git
+db.sqlite3
+0001_initial.py
+.env
